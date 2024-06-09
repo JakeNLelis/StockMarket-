@@ -1,0 +1,577 @@
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/appsettings.Development.json
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/appsettings.json
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/api.exe
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/api.deps.json
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/api.runtimeconfig.json
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/api.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/api.pdb
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/api.csproj.AssemblyReference.cache
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/api.GeneratedMSBuildEditorConfig.editorconfig
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/api.AssemblyInfo.cs
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/api.csproj.CoreCompileInputs.cache
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cs
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cache
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/staticwebassets.build.json
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/staticwebassets.development.json
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/staticwebassets/msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/staticwebassets/msbuild.build.api.props
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api.props
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api.props
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/staticwebassets.pack.json
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/scopedcss/bundle/api.styles.css
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/api.csproj.Up2Date
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/api.dll
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/refint/api.dll
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/api.pdb
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/api.genruntimeconfig.cache
+E:/Desktop/C# Projects/DummyProj/api/obj/Debug/net8.0/ref/api.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Azure.Core.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Azure.Identity.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Humanizer.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/Mono.TextTemplating.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/System.CodeDom.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/System.Composition.Convention.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/System.Composition.Hosting.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/System.Composition.Runtime.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/System.Composition.TypedParts.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/System.Drawing.Common.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/System.Memory.Data.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/System.Runtime.Caching.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/System.Security.Permissions.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/System.Windows.Extensions.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+E:/Desktop/C# Projects/DummyProj/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/appsettings.Development.json
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/appsettings.json
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/api.exe
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/api.deps.json
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/api.runtimeconfig.json
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/api.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/api.pdb
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Azure.Core.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Azure.Identity.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Humanizer.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Mono.TextTemplating.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/System.CodeDom.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/System.Composition.Convention.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/System.Composition.Hosting.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/System.Composition.Runtime.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/System.Composition.TypedParts.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/System.Drawing.Common.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/System.Memory.Data.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/System.Runtime.Caching.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/System.Security.Permissions.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/System.Windows.Extensions.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/api.csproj.AssemblyReference.cache
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/api.GeneratedMSBuildEditorConfig.editorconfig
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/api.AssemblyInfo.cs
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/api.csproj.CoreCompileInputs.cache
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cs
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cache
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/staticwebassets.build.json
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/staticwebassets.development.json
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/staticwebassets/msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/staticwebassets/msbuild.build.api.props
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api.props
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api.props
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/staticwebassets.pack.json
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/scopedcss/bundle/api.styles.css
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/api.csproj.Up2Date
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/api.dll
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/refint/api.dll
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/api.pdb
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/api.genruntimeconfig.cache
+E:/Desktop/C# Projects/StockMarket/api/obj/Debug/net8.0/ref/api.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Newtonsoft.Json.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+E:/Desktop/C# Projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/appsettings.Development.json
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/appsettings.json
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/api.exe
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/api.deps.json
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/api.runtimeconfig.json
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/api.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/api.pdb
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Azure.Core.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Azure.Identity.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Humanizer.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Mono.TextTemplating.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Newtonsoft.Json.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/System.CodeDom.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/System.Composition.Convention.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/System.Composition.Hosting.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/System.Composition.Runtime.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/System.Composition.TypedParts.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/System.Drawing.Common.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/System.Memory.Data.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/System.Runtime.Caching.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/System.Security.Permissions.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/System.Windows.Extensions.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+E:/Desktop/DotnetProjects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/api.csproj.AssemblyReference.cache
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/api.GeneratedMSBuildEditorConfig.editorconfig
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/api.AssemblyInfo.cs
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/api.csproj.CoreCompileInputs.cache
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cs
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cache
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/staticwebassets.build.json
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/staticwebassets.development.json
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/staticwebassets/msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/staticwebassets/msbuild.build.api.props
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api.props
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api.props
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/staticwebassets.pack.json
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/scopedcss/bundle/api.styles.css
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/api.csproj.Up2Date
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/api.dll
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/refint/api.dll
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/api.pdb
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/api.genruntimeconfig.cache
+E:/Desktop/DotnetProjects/StockMarket/api/obj/Debug/net8.0/ref/api.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/appsettings.Development.json
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/appsettings.json
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/api
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/api.deps.json
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/api.runtimeconfig.json
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/api.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/api.pdb
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Azure.Core.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Azure.Identity.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Humanizer.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/System.CodeDom.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/System.Memory.Data.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/api.csproj.AssemblyReference.cache
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/api.GeneratedMSBuildEditorConfig.editorconfig
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/api.AssemblyInfoInputs.cache
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/api.AssemblyInfo.cs
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/api.csproj.CoreCompileInputs.cache
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cs
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/api.MvcApplicationPartsAssemblyInfo.cache
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/staticwebassets.build.json
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/staticwebassets.development.json
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/staticwebassets/msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/staticwebassets/msbuild.build.api.props
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.api.props
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.api.props
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/staticwebassets.pack.json
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/scopedcss/bundle/api.styles.css
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/api.csproj.CopyComplete
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/api.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/refint/api.dll
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/api.pdb
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/api.genruntimeconfig.cache
+/home/nietzchan/Documents/csharp_projects/StockMarket/api/obj/Debug/net8.0/ref/api.dll
